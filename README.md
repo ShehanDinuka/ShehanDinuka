@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Shehan Dinuka and I am working as a Software Engineer at WSO2.
+I am Shehan Dinuka, working as a Software Engineer at WSO2.
 
 ## Connect With Me
 
